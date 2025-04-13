@@ -1,0 +1,6 @@
+.vscode/
+*.csv
+*.json
+*.pyc
+__pycache__
+modelos/
